@@ -1,12 +1,12 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "description": "Worktree layer for AI agents: provision, inspect and clean Git worktrees",
     "homepage": "https://github.com/LuxionServer/ShogunAi",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LuxionServer/ShogunAi/releases/download/v0.8.0/ShogunAi-0.8.0.msi",
-            "hash": "ab8a8438eef43604edf1eab4450b00dc0fb405a4e439476d343570ae4e5dc2f8"
+            "url": "https://github.com/LuxionServer/ShogunAi/releases/download/v0.8.1/ShogunAi-0.8.1.msi",
+            "hash": "ccf1f7521f89957ccf8e448c3a72756449eb93d17506ef56b58a20c4fe17e42f"
         }
     },
     "extract_dir": "ShogunAi",
